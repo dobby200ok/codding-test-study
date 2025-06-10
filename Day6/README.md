@@ -1,6 +1,6 @@
-# 6064번 카잉 달력
+# 2166번 다각형의 면적
 
-[원문](https://www.acmicpc.net/problem/6064)
+[원문](https://www.acmicpc.net/problem/2166)
 
 ## 문제
 
