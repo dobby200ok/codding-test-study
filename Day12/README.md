@@ -1,6 +1,6 @@
 # 1916번 최소 비용 구하기
 
-[원문](https://www.acmicpc.net/problem/11403)
+[원문](https://www.acmicpc.net/problem/1916)
 
 ## 문제
 
