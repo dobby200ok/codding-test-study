@@ -1,6 +1,6 @@
 # 1931번 회의실 배정
 
-[원문](hhttps://www.acmicpc.net/problem/1931)
+[원문](https://www.acmicpc.net/problem/1931)
 
 ## 문제
 
