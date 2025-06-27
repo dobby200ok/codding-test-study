@@ -1,6 +1,6 @@
 # 11053번 가장 긴 증가하는 부분 수열
 
-[원문](hhttps://www.acmicpc.net/problem/11053)
+[원문](https://www.acmicpc.net/problem/11053)
 
 ## 문제
 
