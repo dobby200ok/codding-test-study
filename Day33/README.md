@@ -1,4 +1,4 @@
-# 42884번 단속 카멬라
+# 42884번 단속 카메라
 
 [원문](https://school.programmers.co.kr/learn/courses/30/lessons/42884)
 
